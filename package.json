@@ -2,6 +2,10 @@
   "name": "portfolio",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+      "node": "20.x",
+      "npm": ">=7.0.0"
+    },
   "type": "module",
   "scripts": {
     "start": "node index.js",
